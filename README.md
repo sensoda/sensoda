@@ -10,7 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensoda&theme=gotham&langs_count=6&layout=compact"/>
 </div>
 
-<br>
+<br/>
+<br/>
 
 ### Liked some of my work? Buy me a coffee!
 
